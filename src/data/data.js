@@ -2,7 +2,6 @@ import studenthub from '../assets/projects/StudentHub.png'
 import stockedge from '../assets/projects/StockEdge.png'
 import blogpost from '../assets/projects/blogpost.jpg'
 import weatherapp from '../assets/projects/weatherapp.jpg'
-import RealEst from '../assets/projects/realestate.jpg'
 
 export const data=[
     {
